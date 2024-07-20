@@ -21,3 +21,25 @@ python main.py
 This file lists the Python libraries required for your project.
 
 
+1.  Initialize a Git repository
+   ```
+git init
+```
+2.  Add your files to the repository
+   ```
+git add .
+```
+3.  Commit the files:
+```
+git commit -m "Initial commit"
+```
+4.  Create a new repository on GitHub and follow the instructions to link your local repository to GitHub
+5.  Push your code to GitHub:
+   ```
+git remote add origin https://github.com/punuvinu2000/smart-elephant-fence.git
+git push -u origin master
+
+```
+
+
+
